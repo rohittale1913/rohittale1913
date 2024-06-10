@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Rohit Tale</h1>
 <h3 align="left">A passionate Web-developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohittale1913&label=Profile%20views&color=0e75b6&style=flat" alt="rohittale1913" /> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **MERN-Stack**
