@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Rohit Tale</h1>
 <h3 align="left">A passionate Web-developer from India</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**.
 
-- 💬 Ask me about **MERN-Stack**
+- 💬 Ask me about **MERN-Stack**.
 
 - 📫 How to reach me **rohit.tale1913@gmail.com**
 
-- ⚡ Fun fact **I am Introvert**
+- ⚡ Fun fact **I am Introvert**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
